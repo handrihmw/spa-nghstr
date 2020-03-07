@@ -1,5 +1,5 @@
 # SPA Laravel + VueJS + Bootstrap
-Repositori ini berisi cara membuat SPA (Single Page Application) menggunakan Laravel and Vue.
+Repositori ini berisi cara membuat SPA (Single Page Application) menggunakan Laravel, Vue dan Bootstrap.
 
 # Features
 - Laravel 6.0
