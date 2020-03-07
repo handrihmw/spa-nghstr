@@ -6,7 +6,7 @@ Repositori ini berisi cara membuat SPA (Single Page Application) menggunakan Lar
 - VueJS
 - VueRouter
 - JSON
-- Bootstrap + Font Awesome
+- Bootstrap 4 + Font Awesome 5
 
 # Installation
 - `git clone origin https://github.com/handrihmw/spa-nghstr.git`
