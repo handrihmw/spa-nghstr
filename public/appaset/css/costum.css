@@ -717,11 +717,16 @@ img.socmed-share-logo {
 }
 .bantuan button:hover {
 	border-radius: 25px 25px 25px 25px;
-	background-color: #fff;
-	border-color: #fff;
+	background-color: #4d4d4d;
+	border-color: #4d4d4d;
 	font-size: 18px;
 	width: 220px;
-	color: #288eea;
+	color: #fff;
+}
+
+.bantuan button img {
+  width: 40px; 
+  padding-right: 10px;
 }
 /* Bantuan End/ */
 
